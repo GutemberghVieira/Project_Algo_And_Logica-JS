@@ -1,0 +1,47 @@
+
+
+Software "Juros na divida"
+
+1.Passo 
+Peça ao usuário para digitar o valor da divida 
+
+2.Verifique se o valor da divida é maior do que 0
+
+2.1 Se for siga para o próximo passo 
+
+2.2 Se não Encerre o programa com uma mensagem "O valor da divida tem que ser maior do que zero"
+
+3.Guarde o valor da divida 
+
+4.Passo 
+Peça para o usuário digitar os dias de atraso
+
+5.Verifique se os dias de atraso é maior do que zero 
+
+5.1 Se for maior vá para o próximo passo 
+
+5.2 Se não for mostre uma mensagem "Você pagará o valor normalmente você está em dia"
+
+6.Verifique os juros dependendo da quantidade de dias atrasados
+
+6.1Se for maior que 1 e menor que 5 
+Faça o calculo com 5% de juros adicionado ao valor total 
+//
+
+6.2Se for maior ou igual a 5  e menor ou igual a 10
+Faça o calculo com 10% de juros adicionado ao valor total
+//
+
+6.3Se for maior ou igual a 11 e menor ou igual a 29
+Faça o calculo com 20% de juros adicionado ao valor total 
+//
+
+6.4Caso passe de 29 dias será imposto a 50% de juros 
+Faça o calculo com 50% de juros adicionado ao valor total 
+//
+
+7.Passo 
+Mostre o valor da divida com juros na tela 
+//
+
+Fim do programa
