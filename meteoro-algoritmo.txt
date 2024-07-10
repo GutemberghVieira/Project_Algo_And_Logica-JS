@@ -1,0 +1,6 @@
+Algoritmo chuvas de meteoros do Hemisfério Norte(Positivo) e Sul(Negativo)
+
+1º Passo criar uma função que filtra a declinação do meteoro do hemisfério Norte
+2º Passo criar uma função que filtra a declinação do meteoro do hemisfério Sul
+3º Passo cria uma função que retorna o nome e a declinação do meteoro do hemisfério norte e sul
+4º Passo percorrer hemisfério norte & sul e  mostrar na tela o nome e declinação
